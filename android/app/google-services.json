@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "126584629323",
+    "project_id": "cabconnect-af448",
+    "storage_bucket": "cabconnect-af448.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:126584629323:android:0e3edd22d4dc4794bc85ce",
+        "android_client_info": {
+          "package_name": "com.example.cab_connect"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB2zDJlJQOEBt4E92-dl9GzPTOBfSbQ_3U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
